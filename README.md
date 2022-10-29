@@ -1,2 +1,2 @@
-# noas_quest
+# Noa's Quest
 Unity project
